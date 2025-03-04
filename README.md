@@ -1,4 +1,4 @@
-```markdown
+```
 # Lab stratis correction Exercise
 
 ## Stratis Commands
